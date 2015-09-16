@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:15:47.236389
+# -*- mode: mandoku-view -*-
 #+TITLE: 黃帝太乙八門入式訣
-#+PROPERTY: DZID  DZ0586
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，10—786 三卷 洞玄部眾術類
+#+DATE: 2015-08-29 00:15:47
+#+PROPERTY:  LASTPB <PB KR5b0291_SJB_003-100775c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5b0291_HFL_003-006b>¶¶¶¶¶¶¶¶¶¶¶
+
